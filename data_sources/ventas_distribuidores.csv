@@ -249,3 +249,7 @@ venta_id,cliente_id,producto_id,fecha,canal,region,unidades,monto
 748,195,230,2024-03-10,Mayorista,Piura,66,428.5
 749,150,240,2024-03-22,Retail,Lima,46,278.67
 750,185,230,2024-01-13,Distribuidor,Lima,105,695.76
+749,150,240,2024-03-22,Retail,Lima,46,278.68
+750,185,230,2024-01-13,Distribuidor,Lima,105,695.77
+749,150,240,2024-03-22,Retail,Lima,46,278.69
+750,185,230,2024-01-13,Distribuidor,Lima,105,695.78
