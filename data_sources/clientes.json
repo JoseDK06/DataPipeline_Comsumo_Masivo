@@ -1,0 +1,842 @@
+[
+    {
+        "cliente_id": 101,
+        "cliente": "Cliente_1",
+        "tipo": "Mayorista",
+        "ciudad": "Lima",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 102,
+        "cliente": "Cliente_2",
+        "tipo": "Tradicional",
+        "ciudad": "Trujillo",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 103,
+        "cliente": "Cliente_3",
+        "tipo": "Moderno",
+        "ciudad": "Trujillo",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 104,
+        "cliente": "Cliente_4",
+        "tipo": "Mayorista",
+        "ciudad": "Arequipa",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 105,
+        "cliente": "Cliente_5",
+        "tipo": "Tradicional",
+        "ciudad": "Lima",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 106,
+        "cliente": "Cliente_6",
+        "tipo": "Tradicional",
+        "ciudad": "Arequipa",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 107,
+        "cliente": "Cliente_7",
+        "tipo": "Tradicional",
+        "ciudad": "Lima",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 108,
+        "cliente": "Cliente_8",
+        "tipo": "Moderno",
+        "ciudad": "Chiclayo",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 109,
+        "cliente": "Cliente_9",
+        "tipo": "Tradicional",
+        "ciudad": "Piura",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 110,
+        "cliente": "Cliente_10",
+        "tipo": "Moderno",
+        "ciudad": "Chiclayo",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 111,
+        "cliente": "Cliente_11",
+        "tipo": "Tradicional",
+        "ciudad": "Piura",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 112,
+        "cliente": "Cliente_12",
+        "tipo": "Mayorista",
+        "ciudad": "Chiclayo",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 113,
+        "cliente": "Cliente_13",
+        "tipo": "Tradicional",
+        "ciudad": "Chiclayo",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 114,
+        "cliente": "Cliente_14",
+        "tipo": "Tradicional",
+        "ciudad": "Arequipa",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 115,
+        "cliente": "Cliente_15",
+        "tipo": "Tradicional",
+        "ciudad": "Cusco",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 116,
+        "cliente": "Cliente_16",
+        "tipo": "Tradicional",
+        "ciudad": "Chiclayo",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 117,
+        "cliente": "Cliente_17",
+        "tipo": "Mayorista",
+        "ciudad": "Arequipa",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 118,
+        "cliente": "Cliente_18",
+        "tipo": "Moderno",
+        "ciudad": "Piura",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 119,
+        "cliente": "Cliente_19",
+        "tipo": "Mayorista",
+        "ciudad": "Trujillo",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 120,
+        "cliente": "Cliente_20",
+        "tipo": "Mayorista",
+        "ciudad": "Lima",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 121,
+        "cliente": "Cliente_21",
+        "tipo": "Moderno",
+        "ciudad": "Cusco",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 122,
+        "cliente": "Cliente_22",
+        "tipo": "Moderno",
+        "ciudad": "Trujillo",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 123,
+        "cliente": "Cliente_23",
+        "tipo": "Moderno",
+        "ciudad": "Chiclayo",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 124,
+        "cliente": "Cliente_24",
+        "tipo": "Mayorista",
+        "ciudad": "Cusco",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 125,
+        "cliente": "Cliente_25",
+        "tipo": "Mayorista",
+        "ciudad": "Piura",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 126,
+        "cliente": "Cliente_26",
+        "tipo": "Tradicional",
+        "ciudad": "Chiclayo",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 127,
+        "cliente": "Cliente_27",
+        "tipo": "Tradicional",
+        "ciudad": "Lima",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 128,
+        "cliente": "Cliente_28",
+        "tipo": "Moderno",
+        "ciudad": "Cusco",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 129,
+        "cliente": "Cliente_29",
+        "tipo": "Moderno",
+        "ciudad": "Lima",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 130,
+        "cliente": "Cliente_30",
+        "tipo": "Mayorista",
+        "ciudad": "Arequipa",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 131,
+        "cliente": "Cliente_31",
+        "tipo": "Moderno",
+        "ciudad": "Cusco",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 132,
+        "cliente": "Cliente_32",
+        "tipo": "Tradicional",
+        "ciudad": "Cusco",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 133,
+        "cliente": "Cliente_33",
+        "tipo": "Tradicional",
+        "ciudad": "Piura",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 134,
+        "cliente": "Cliente_34",
+        "tipo": "Tradicional",
+        "ciudad": "Arequipa",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 135,
+        "cliente": "Cliente_35",
+        "tipo": "Mayorista",
+        "ciudad": "Chiclayo",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 136,
+        "cliente": "Cliente_36",
+        "tipo": "Mayorista",
+        "ciudad": "Trujillo",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 137,
+        "cliente": "Cliente_37",
+        "tipo": "Moderno",
+        "ciudad": "Trujillo",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 138,
+        "cliente": "Cliente_38",
+        "tipo": "Mayorista",
+        "ciudad": "Lima",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 139,
+        "cliente": "Cliente_39",
+        "tipo": "Mayorista",
+        "ciudad": "Piura",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 140,
+        "cliente": "Cliente_40",
+        "tipo": "Mayorista",
+        "ciudad": "Cusco",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 141,
+        "cliente": "Cliente_41",
+        "tipo": "Mayorista",
+        "ciudad": "Arequipa",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 142,
+        "cliente": "Cliente_42",
+        "tipo": "Moderno",
+        "ciudad": "Cusco",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 143,
+        "cliente": "Cliente_43",
+        "tipo": "Tradicional",
+        "ciudad": "Arequipa",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 144,
+        "cliente": "Cliente_44",
+        "tipo": "Tradicional",
+        "ciudad": "Chiclayo",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 145,
+        "cliente": "Cliente_45",
+        "tipo": "Mayorista",
+        "ciudad": "Cusco",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 146,
+        "cliente": "Cliente_46",
+        "tipo": "Tradicional",
+        "ciudad": "Trujillo",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 147,
+        "cliente": "Cliente_47",
+        "tipo": "Moderno",
+        "ciudad": "Trujillo",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 148,
+        "cliente": "Cliente_48",
+        "tipo": "Mayorista",
+        "ciudad": "Piura",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 149,
+        "cliente": "Cliente_49",
+        "tipo": "Mayorista",
+        "ciudad": "Piura",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 150,
+        "cliente": "Cliente_50",
+        "tipo": "Tradicional",
+        "ciudad": "Cusco",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 151,
+        "cliente": "Cliente_51",
+        "tipo": "Mayorista",
+        "ciudad": "Piura",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 152,
+        "cliente": "Cliente_52",
+        "tipo": "Tradicional",
+        "ciudad": "Trujillo",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 153,
+        "cliente": "Cliente_53",
+        "tipo": "Mayorista",
+        "ciudad": "Lima",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 154,
+        "cliente": "Cliente_54",
+        "tipo": "Tradicional",
+        "ciudad": "Lima",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 155,
+        "cliente": "Cliente_55",
+        "tipo": "Mayorista",
+        "ciudad": "Cusco",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 156,
+        "cliente": "Cliente_56",
+        "tipo": "Mayorista",
+        "ciudad": "Arequipa",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 157,
+        "cliente": "Cliente_57",
+        "tipo": "Mayorista",
+        "ciudad": "Arequipa",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 158,
+        "cliente": "Cliente_58",
+        "tipo": "Moderno",
+        "ciudad": "Arequipa",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 159,
+        "cliente": "Cliente_59",
+        "tipo": "Tradicional",
+        "ciudad": "Piura",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 160,
+        "cliente": "Cliente_60",
+        "tipo": "Mayorista",
+        "ciudad": "Arequipa",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 161,
+        "cliente": "Cliente_61",
+        "tipo": "Tradicional",
+        "ciudad": "Lima",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 162,
+        "cliente": "Cliente_62",
+        "tipo": "Tradicional",
+        "ciudad": "Chiclayo",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 163,
+        "cliente": "Cliente_63",
+        "tipo": "Moderno",
+        "ciudad": "Arequipa",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 164,
+        "cliente": "Cliente_64",
+        "tipo": "Tradicional",
+        "ciudad": "Trujillo",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 165,
+        "cliente": "Cliente_65",
+        "tipo": "Moderno",
+        "ciudad": "Lima",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 166,
+        "cliente": "Cliente_66",
+        "tipo": "Mayorista",
+        "ciudad": "Trujillo",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 167,
+        "cliente": "Cliente_67",
+        "tipo": "Tradicional",
+        "ciudad": "Lima",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 168,
+        "cliente": "Cliente_68",
+        "tipo": "Tradicional",
+        "ciudad": "Piura",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 169,
+        "cliente": "Cliente_69",
+        "tipo": "Mayorista",
+        "ciudad": "Arequipa",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 170,
+        "cliente": "Cliente_70",
+        "tipo": "Moderno",
+        "ciudad": "Piura",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 171,
+        "cliente": "Cliente_71",
+        "tipo": "Mayorista",
+        "ciudad": "Piura",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 172,
+        "cliente": "Cliente_72",
+        "tipo": "Tradicional",
+        "ciudad": "Cusco",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 173,
+        "cliente": "Cliente_73",
+        "tipo": "Tradicional",
+        "ciudad": "Arequipa",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 174,
+        "cliente": "Cliente_74",
+        "tipo": "Mayorista",
+        "ciudad": "Trujillo",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 175,
+        "cliente": "Cliente_75",
+        "tipo": "Tradicional",
+        "ciudad": "Arequipa",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 176,
+        "cliente": "Cliente_76",
+        "tipo": "Mayorista",
+        "ciudad": "Arequipa",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 177,
+        "cliente": "Cliente_77",
+        "tipo": "Mayorista",
+        "ciudad": "Cusco",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 178,
+        "cliente": "Cliente_78",
+        "tipo": "Moderno",
+        "ciudad": "Cusco",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 179,
+        "cliente": "Cliente_79",
+        "tipo": "Tradicional",
+        "ciudad": "Chiclayo",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 180,
+        "cliente": "Cliente_80",
+        "tipo": "Tradicional",
+        "ciudad": "Lima",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 181,
+        "cliente": "Cliente_81",
+        "tipo": "Mayorista",
+        "ciudad": "Arequipa",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 182,
+        "cliente": "Cliente_82",
+        "tipo": "Tradicional",
+        "ciudad": "Arequipa",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 183,
+        "cliente": "Cliente_83",
+        "tipo": "Mayorista",
+        "ciudad": "Chiclayo",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 184,
+        "cliente": "Cliente_84",
+        "tipo": "Mayorista",
+        "ciudad": "Lima",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 185,
+        "cliente": "Cliente_85",
+        "tipo": "Mayorista",
+        "ciudad": "Chiclayo",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 186,
+        "cliente": "Cliente_86",
+        "tipo": "Tradicional",
+        "ciudad": "Trujillo",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 187,
+        "cliente": "Cliente_87",
+        "tipo": "Moderno",
+        "ciudad": "Lima",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 188,
+        "cliente": "Cliente_88",
+        "tipo": "Mayorista",
+        "ciudad": "Chiclayo",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 189,
+        "cliente": "Cliente_89",
+        "tipo": "Moderno",
+        "ciudad": "Trujillo",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 190,
+        "cliente": "Cliente_90",
+        "tipo": "Moderno",
+        "ciudad": "Lima",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 191,
+        "cliente": "Cliente_91",
+        "tipo": "Mayorista",
+        "ciudad": "Trujillo",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 192,
+        "cliente": "Cliente_92",
+        "tipo": "Moderno",
+        "ciudad": "Chiclayo",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 193,
+        "cliente": "Cliente_93",
+        "tipo": "Tradicional",
+        "ciudad": "Chiclayo",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 194,
+        "cliente": "Cliente_94",
+        "tipo": "Tradicional",
+        "ciudad": "Trujillo",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 195,
+        "cliente": "Cliente_95",
+        "tipo": "Moderno",
+        "ciudad": "Piura",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 196,
+        "cliente": "Cliente_96",
+        "tipo": "Moderno",
+        "ciudad": "Arequipa",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 197,
+        "cliente": "Cliente_97",
+        "tipo": "Moderno",
+        "ciudad": "Cusco",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 198,
+        "cliente": "Cliente_98",
+        "tipo": "Mayorista",
+        "ciudad": "Trujillo",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 199,
+        "cliente": "Cliente_99",
+        "tipo": "Moderno",
+        "ciudad": "Arequipa",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 200,
+        "cliente": "Cliente_100",
+        "tipo": "Tradicional",
+        "ciudad": "Piura",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 201,
+        "cliente": "Cliente_101",
+        "tipo": "Mayorista",
+        "ciudad": "Trujillo",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 202,
+        "cliente": "Cliente_102",
+        "tipo": "Tradicional",
+        "ciudad": "Chiclayo",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 203,
+        "cliente": "Cliente_103",
+        "tipo": "Tradicional",
+        "ciudad": "Chiclayo",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 204,
+        "cliente": "Cliente_104",
+        "tipo": "Tradicional",
+        "ciudad": "Cusco",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 205,
+        "cliente": "Cliente_105",
+        "tipo": "Mayorista",
+        "ciudad": "Arequipa",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 206,
+        "cliente": "Cliente_106",
+        "tipo": "Tradicional",
+        "ciudad": "Cusco",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 207,
+        "cliente": "Cliente_107",
+        "tipo": "Mayorista",
+        "ciudad": "Arequipa",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 208,
+        "cliente": "Cliente_108",
+        "tipo": "Mayorista",
+        "ciudad": "Lima",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 209,
+        "cliente": "Cliente_109",
+        "tipo": "Mayorista",
+        "ciudad": "Piura",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 210,
+        "cliente": "Cliente_110",
+        "tipo": "Tradicional",
+        "ciudad": "Lima",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 211,
+        "cliente": "Cliente_111",
+        "tipo": "Moderno",
+        "ciudad": "Lima",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 212,
+        "cliente": "Cliente_112",
+        "tipo": "Tradicional",
+        "ciudad": "Cusco",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 213,
+        "cliente": "Cliente_113",
+        "tipo": "Tradicional",
+        "ciudad": "Arequipa",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 214,
+        "cliente": "Cliente_114",
+        "tipo": "Mayorista",
+        "ciudad": "Lima",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 215,
+        "cliente": "Cliente_115",
+        "tipo": "Moderno",
+        "ciudad": "Trujillo",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 216,
+        "cliente": "Cliente_116",
+        "tipo": "Mayorista",
+        "ciudad": "Lima",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 217,
+        "cliente": "Cliente_117",
+        "tipo": "Tradicional",
+        "ciudad": "Chiclayo",
+        "segmento": "Mayorista"
+    },
+    {
+        "cliente_id": 218,
+        "cliente": "Cliente_118",
+        "tipo": "Mayorista",
+        "ciudad": "Chiclayo",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 219,
+        "cliente": "Cliente_119",
+        "tipo": "Tradicional",
+        "ciudad": "Arequipa",
+        "segmento": "Retail"
+    },
+    {
+        "cliente_id": 220,
+        "cliente": "Cliente_120",
+        "tipo": "Tradicional",
+        "ciudad": "Piura",
+        "segmento": "Retail"
+    }
+]
