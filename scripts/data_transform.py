@@ -14,5 +14,5 @@ def transform_data(ventas_csv, ventas_db, clientes, productos):
     df["mes"] = pd.to_datetime(df["fecha"]).dt.month
 
     print("Transformación completada")
-
+    #Se agrego esta linea a modo de prueba
     return df
